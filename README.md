@@ -21,7 +21,7 @@ This project is based on the tutorial of A cloud guru Ltd -- "Serverless - Build
 * Lambda (function as a service)
 * API Gateway (build, deploy and manage api)
 
-## others
+## Others
 * HTML (page structure)
 * CSS (look and style)
 * Node.js
