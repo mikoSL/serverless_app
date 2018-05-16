@@ -1,5 +1,7 @@
-# Project
+# Website
+http://serverless-videosharingapp-transcoded.s3-website-us-east-1.amazonaws.com
 
+# Project
 This project is based on the tutorial of A cloud guru Ltd -- "Serverless - Build a vedio sharing app" by Sam Kroonenburg.
 
 # Technologies used
@@ -17,3 +19,5 @@ This project is based on the tutorial of A cloud guru Ltd -- "Serverless - Build
 * HTML (page structure)
 * CSS (look and style)
 * Node.js
+* Firebase
+* Auth0
