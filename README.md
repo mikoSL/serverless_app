@@ -19,11 +19,11 @@ This project is based on the tutorial of A cloud guru Ltd -- "Serverless - Build
 * Elastic Transcoder (media transcoding)
 * S3 (Object storage)
 * Lambda (function as a service)
-* API Gateway
+* API Gateway (build, deploy and manage api)
 
 ## others
 * HTML (page structure)
 * CSS (look and style)
 * Node.js
-* Firebase
-* Auth0
+* Firebase (store and sync NoSQL data in cloud)
+* Auth0 (authorization)
